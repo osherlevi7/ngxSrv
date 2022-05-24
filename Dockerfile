@@ -1,5 +1,5 @@
 #use node base image
-FROM node:8-onbuild
+FROM node:14.19.1-buster-slim
 
 LABEL maintainer "osher.levi7@gmail.com"
 
