@@ -1,5 +1,5 @@
 #use node base image
-FROM node:7-onbuild
+FROM node:8-onbuild
 
 LABEL maintainer "osher.levi7@gmail.com"
 
